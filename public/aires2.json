@@ -1,0 +1,46 @@
+{
+  "Aires": [
+    [
+      1,
+      "off",
+      "conect",
+      "aire 1",
+      25,
+      "act",
+      "desact",
+      "calor",
+      2,
+      "act",
+      0,
+      "0"
+    ],
+    [
+      2,
+      "off",
+      "conect",
+      "aire 1",
+      25,
+      "act",
+      "desact",
+      "calor",
+      2,
+      "act",
+      0,
+      "0"
+    ],
+    [
+      3,
+      null,
+      "desconect",
+      null,
+      null,
+      null,
+      "act",
+      "frio",
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}

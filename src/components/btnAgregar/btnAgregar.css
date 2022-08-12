@@ -1,0 +1,10 @@
+.divBtnAgregar {
+  width: 100%;
+  text-align: center;
+  padding: 15px;
+  cursor: pointer;
+}
+.btnAgregar {
+  color: var(--texto);
+  font-size: 56px;
+}
